@@ -1,0 +1,2 @@
+add background subtraction
+add resizing images
